@@ -25,7 +25,7 @@ local colors = {
 	indent = "#3f3f3f",
   reference = "#323232",
 	indent_active = "#636363",
-	folder = "#c8c8c8",
+	folder = "#42A5F5",
 	hint = "#4bc1fe",
 	info = "#FFCC66",
 	warn = "#ff8800",
@@ -38,11 +38,11 @@ local colors = {
   diff_add = "#587c0c",
   diff_delete = "#94151b",
 	gitsigns_add = "#2da042",
-	gitsigns_change = "#0077d2",
+	gitsigns_change = "#0078d4",
 	gitsigns_delete = "#f85249",
-  git_tree_add = "#6dbd89",
-	git_tree_change = "#e6c38f",
-	git_tree_delete = "#f88372",
+	git_tree_add = "#73C991",
+	git_tree_change = "#CCA700",
+	git_tree_delete = "#F44747",
   statusline_bg = "#181818",
   ui_blue = "#0078d4",
   ui_orange = "#e29627",
@@ -50,6 +50,8 @@ local colors = {
   ui_purple = "#a779ca",
   ui_yellow= "#ffcc77",
   ui_green = "#14C50B",
+	sign_add_bg = "#48562D",
+	sign_delete_bg = "#521316",
 }
 
 return colors
