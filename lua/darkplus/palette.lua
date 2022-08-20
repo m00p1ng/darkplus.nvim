@@ -28,6 +28,7 @@ local colors = {
   sign_delete = "#94151b",
   sign_add_alt = "#73C991",
   sign_change_alt = "#CCA700",
+  sign_delete_alt = "#F44747",
   error = "#F44747",
   warn = "#ff8800",
   info = "#FFCC66",
@@ -47,6 +48,9 @@ local colors = {
   ui_orange = "#E8AB53",
   ui2_orange = "#613214",
   ui_purple = "#B180D7",
+  sign_add_bg = "#48562D",
+  sign_delete_bg = "#521316",
+  sign_warning_bg = "#9F5932",
 }
 
 return colors
